@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.AccountKit.iOS</id>
+        <version>1.1</version>
+        <description>Xamarin Binding Library - AccountKit</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - AccountKit</title>
+        <releaseNotes>AccountKit v1.1</releaseNotes>
+        <summary>Xamarin Binding Library - AccountKit</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xam-accountkit-ios</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.iOS, AccountKit</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.AccountKit.iOS/bin/Release/Naxam.AccountKit.iOS.dll" target="lib/Xamarin.iOS10/Naxam.AccountKit.iOS.dll" />
+    </files>
+</package>

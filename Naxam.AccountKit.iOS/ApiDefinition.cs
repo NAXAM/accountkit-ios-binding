@@ -29,6 +29,9 @@ namespace Facebook.Accountkit
 	// typedef void (^AKFRequestAccountHandler)(id<AKFAccount> _Nullable, NSError * _Nullable);
 	delegate void AKFRequestAccountHandler ([NullAllowed] AKFAccount arg0, [NullAllowed] NSError arg1);
 
+	// typedef void (^AKFLogoutHandler)(BOOL success, NSError *_Nullable error);
+	delegate void AKFLogoutHandler (bool success, [NullAllowed] NSError error);
+
 	[Static]
 	// [Verify (ConstantsInterfaceAssociation)]
 	partial interface AKFError
@@ -135,6 +138,10 @@ namespace Facebook.Accountkit
 		[Export("logOut")]
 		void LogOut();
 
+		//- (void)logOut:(nullable AKFLogoutHandler)handler;
+		[Export("logOut:")]
+		void LogOut([NullAllowed] AKFLogoutHandler handler);
+
 		//- (void)requestAccount:(AKFRequestAccountHandler)handler;
 		[Export("requestAccount:")]
 		void RequestAccount(AKFRequestAccountHandler handler);
@@ -220,9 +227,13 @@ namespace Facebook.Accountkit
 		[Abstract, Export("defaultCountryCode", ArgumentSemantic.Copy)]
 		string DefaultCountryCode { get; set; }
 
-		//@property (nonatomic) BOOL enableSendToFacebook;
-		[Abstract, Export("enableSendToFacebook")]
+		//@property (nonatomic, assign) BOOL enableSendToFacebook;
+		[Abstract, Export("enableSendToFacebook", ArgumentSemantic.Assign)]
 		bool EnableSendToFacebook { get; set; }
+
+		//@property (nonatomic, assign) BOOL enableGetACall;
+		[Abstract, Export("enableGetACall", ArgumentSemantic.Assign)]
+		bool EnableGetACall { get; set; }
 
 		//@property (nonatomic, copy) NSArray<NSString *> *whitelistedCountryCodes;
 		[Abstract, Export("whitelistedCountryCodes", ArgumentSemantic.Copy)]
@@ -359,6 +370,11 @@ namespace Facebook.Accountkit
 		//@property (nonatomic, copy) UIColor *buttonTextColor;
 		[Export("buttonTextColor", ArgumentSemantic.Copy)]
 		UIColor ButtonTextColor { get; set; }
+
+		//@property (nonatomic, assign) AKFButtonTranslucentStyle buttonTranslucenStyle;
+		[Export("buttonTranslucenStyle", ArgumentSemantic.Assign)]
+		AKFButtonTranslucentStyle ButtonTranslucenStyle { get; set; }
+
 		//@property (nonatomic, assign) NSUInteger contentBodyLayoutWeight;
 		[Export("contentBodyLayoutWeight", ArgumentSemantic.Assign)]
 		int ContentBodyLayoutWeight { get; set; }
@@ -410,6 +426,11 @@ namespace Facebook.Accountkit
 		//@property (nonatomic, copy) UIColor *inputBorderColor;
 		[Export("inputBorderColor", ArgumentSemantic.Copy)]
 		UIColor InputBorderColor { get; set; }
+
+		//@property (nonatomic, assign) AKFInputStyle inputStyle;
+		[Export("inputStyle", ArgumentSemantic.Assign)]
+		AKFInputStyle InputStyle { get; set; }
+
 		//@property (nonatomic, copy) UIColor *inputTextColor;
 		[Export("inputTextColor", ArgumentSemantic.Copy)]
 		UIColor InputTextColor { get; set; }

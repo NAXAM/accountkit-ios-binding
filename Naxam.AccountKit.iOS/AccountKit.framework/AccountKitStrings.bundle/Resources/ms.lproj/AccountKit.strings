@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Akaun disahkan.";
-"com_accountkit_button_back" = "Undur";
 "com_accountkit_button_begin" = "Mula";
 "com_accountkit_button_cancel" = "Batal";
 "com_accountkit_button_confirm" = "Sah";
@@ -49,7 +48,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Ketik %1$@ untuk menerima Facebook <a href=\"%2$@\">Terma</a>, <a href=\"%3$@\">Dasar Data</a> dan <a href=\"%4$@\">penggunaan kuki</a>. <a href=\"%5$@\">Ketahui lebih lanjut</a> tentang bagaimana akaun anda telah disahkan.";
 "com_accountkit_confirmation_code_text" = "Saya tidak dapat kod";
 "com_accountkit_confirmation_code_title" = "Masukkan kod anda";
-"com_accountkit_country_code_title" = "Pilih Negara Anda";
 "com_accountkit_email_invalid" = "E-mel ini salah. Sila cuba lagi.";
 "com_accountkit_email_loading_title" = "mengesahkan alamat e-mel anda...";
 "com_accountkit_email_login_retry_title" = "Sahkan e-mel anda";
@@ -60,16 +58,19 @@
 "com_accountkit_enter_code_sent_to" = "Masukkan kod yang dihantar ke %1$@.";
 "com_accountkit_error_title" = "Isu sistem berlaku. Sila cuba lagi.";
 "com_accountkit_facebook_code_entry_title" = "Masukkan kod anda daripada Facebook";
+"com_accountkit_ios_button_back" = "Kembali";
+"com_accountkit_ios_country_code_title" = "Pilih Negara Anda";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Nombor";
+"com_accountkit_ios_phone_login_text" = "Ketik %1$@ untuk mendapatkan pengesahan SMS daripada Account Kit yang dikuasakan oleh Facebook. %2$@ menggunakan teknologi Facebook untuk membantu anda mendaftar masuk, tetapi anda tidak memerlukan akaun Facebook. Kadar mesej dan data mungkin dikenakan. <a href=\"%3$@\">Ketahui bagaimana Facebook menggunakan maklumat anda</a>.";
+"com_accountkit_ios_phone_sending_sms" = "Menghantar SMS dengan kod anda";
 "com_accountkit_logging_in" = "Mengelog masuk...";
 "com_accountkit_other_ways_to_get_code" = "Cara lain untuk mendapatkan kod:";
 "com_accountkit_phone_error_title" = "Sila masukkan nombor telefon mudah alih yang sah.";
 "com_accountkit_phone_loading_title" = "Mengesahkan nombor anda...";
-"com_accountkit_phone_login_phone_number_placeholder" = "Nombor";
 "com_accountkit_phone_login_retry_title" = "Sahkan nombor telefon anda";
-"com_accountkit_phone_login_text" = "Ketik %1$@ untuk mendapatkan pengesahan SMS daripada Kit Akaun yang dikuasakan oleh Facebook. %2$@ menggunakan teknologi Facebook untuk membantu anda mendaftar masuk, tetapi anda tidak memerlukan akaun Facebook. Kadar mesej dan data boleh dikenakan. <a href=\"%3$@\">Ketahui cara Facebook menggunakan maklumat anda</a>.";
+"com_accountkit_phone_login_text" = "Ketik %1$@ untuk mengesahkan akaun anda dengan Kit Akaun dikuasakan oleh Facebook. Anda tidak memerlukan akaun Facebook menggunakan Akaun Kit. SMS boleh dihantar untuk mengesahkan nombor anda. Mesej dan data kadar mungkin dikenakan. <a href=\"%2$@\">Belajar bagaimana Facebook menggunakan maklumat</a> anda.";
 "com_accountkit_phone_login_title" = "Masukkan nombor telefon bimbit anda";
 "com_accountkit_phone_sending_code_on_fb_title" = "Menghantar kod di Facebook...";
-"com_accountkit_phone_sending_sms" = "Menghantar SMS menggunakan kod anda";
 "com_accountkit_resend_check" = "Semak peti masuk SMS anda";
 "com_accountkit_resend_email_text" = "Hantar E-mel Baru";
 "com_accountkit_resend_title" = "Jika anda belum mendapat kod:";

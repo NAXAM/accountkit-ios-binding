@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Аккаунт подтвержден!";
-"com_accountkit_button_back" = "Назад";
 "com_accountkit_button_begin" = "Начать";
 "com_accountkit_button_cancel" = "Отмена";
 "com_accountkit_button_confirm" = "Подтвердить";
@@ -49,7 +48,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Коснитесь кнопки «%1$@», чтобы принять <a href=\"%2$@\">условия</a>, <a href=\"%3$@\">политику использования данных</a> и <a href=\"%4$@\">политику использования файлов «cookie»</a> Facebook. <a href=\"%5$@\">Подробнее</a> о подтверждении вашего аккаунта.";
 "com_accountkit_confirmation_code_text" = "Код не пришел";
 "com_accountkit_confirmation_code_title" = "Введите код";
-"com_accountkit_country_code_title" = "Выберите свою страну";
 "com_accountkit_email_invalid" = "Эл. адрес указан неверно. Попробуйте еще раз.";
 "com_accountkit_email_loading_title" = "Подтверждение вашего эл. адреса...";
 "com_accountkit_email_login_retry_title" = "Подтвердите эл. адрес";
@@ -60,16 +58,19 @@
 "com_accountkit_enter_code_sent_to" = "Введите код, который был отправлен на номер %1$@";
 "com_accountkit_error_title" = "Произошла системная ошибка. Повторите попытку.";
 "com_accountkit_facebook_code_entry_title" = "Введите код с Facebook";
+"com_accountkit_ios_button_back" = "Назад";
+"com_accountkit_ios_country_code_title" = "Выберите свою страну";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Номер";
+"com_accountkit_ios_phone_login_text" = "Коснитесь кнопки «%1$@», чтобы получить SMS-подтверждение от Account Kit от Facebook. %2$@ использует технологии Facebook, чтобы помочь вам выполнить вход, однако аккаунт Facebook для этого не требуется. Передача текстовых сообщений и данных может тарифицироваться вашим оператором мобильной связи. <a href=\"%3$@\">Узнайте, как Facebook использует вашу информацию</a>.";
+"com_accountkit_ios_phone_sending_sms" = "Отправка SMS с кодом";
 "com_accountkit_logging_in" = "Вход\U2026";
 "com_accountkit_other_ways_to_get_code" = "Как еще можно получить код:";
 "com_accountkit_phone_error_title" = "Введите действительный моб. телефон.";
 "com_accountkit_phone_loading_title" = "Подтверждение номера...";
-"com_accountkit_phone_login_phone_number_placeholder" = "Номер";
 "com_accountkit_phone_login_retry_title" = "Подтвердите моб. телефон";
-"com_accountkit_phone_login_text" = "Нажмите %1$@, чтобы получить SMS с подтверждением от Account Kit от Facebook. %2$@ использует технологию входа от Facebook, однако аккаунт Facebook вам не потребуется. Может взиматься плата за передачу сообщений и данных. <a href=\"%3$@\">как Facebook использует вашу информацию</a>.";
+"com_accountkit_phone_login_text" = "Коснитесь кнопки «%1$@», чтобы получить эл. письмо с подтверждением Account Kit от Facebook. Для использования Account Kit не требуется аккаунт Facebook. Возможно, вы получите SMS для подтверждения номера. Могут применяться тарифы на обмен сообщениями и использование данных. <a href=\"%2$@\">Подробнее о том, как Facebook использует вашу информацию</a>.";
 "com_accountkit_phone_login_title" = "Введите свой моб. телефон";
 "com_accountkit_phone_sending_code_on_fb_title" = "Отправка кода на Facebook...";
-"com_accountkit_phone_sending_sms" = "Отправка SMS с кодом";
 "com_accountkit_resend_check" = "Проверьте входящие SMS";
 "com_accountkit_resend_email_text" = "Отправить новое эл. письмо";
 "com_accountkit_resend_title" = "Если вы не получили код:";

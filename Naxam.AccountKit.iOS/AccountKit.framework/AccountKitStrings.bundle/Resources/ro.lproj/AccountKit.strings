@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Cont verificat!";
-"com_accountkit_button_back" = "Înapoi";
 "com_accountkit_button_begin" = "Începe";
 "com_accountkit_button_cancel" = "Renunţă";
 "com_accountkit_button_confirm" = "Confirmă";
@@ -48,7 +47,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Atinge %1$@ pentru a accepta <a href=\"%2$@\">Condiţiile</a>, <a href=\"%3$@\">Politica de utilizare a datelor</a> şi <a href=\"%4$@\">Politica de utilizare a modulelor cookie</a> Facebook. <a href=\"%5$@\">Află mai multe</a> despre cum s-a efectuat verificarea contului tău.";
 "com_accountkit_confirmation_code_text" = "Nu am primit codul";
 "com_accountkit_confirmation_code_title" = "Introdu codul";
-"com_accountkit_country_code_title" = "Selectează țara";
 "com_accountkit_email_invalid" = "Această adresă de e-mail nu este corectă. Te rugăm să încerci din nou.";
 "com_accountkit_email_loading_title" = "Se verifică adresa de e-mail...";
 "com_accountkit_email_login_retry_title" = "Confirmă adresa de e-mail";
@@ -59,16 +57,19 @@
 "com_accountkit_enter_code_sent_to" = "Introdu codul trimis la %1$@.";
 "com_accountkit_error_title" = "A apărut o eroare de sistem. Te rugăm să încerci din nou.";
 "com_accountkit_facebook_code_entry_title" = "Introdu codul de pe Facebook";
+"com_accountkit_ios_button_back" = "Înapoi";
+"com_accountkit_ios_country_code_title" = "Selectează ţara ta";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Număr";
+"com_accountkit_ios_phone_login_text" = "Atinge %1$@ pentru a primi o confirmare prin SMS de la Account Kit oferit de Facebook. %2$@ foloseşte tehnologia Facebook pentru a te ajuta să te conectezi, însă nu ai nevoie de un cont de Facebook. Este posibil să se aplice tarifele pentru mesaje şi date. <a href=\"%3$@\">Află cum foloseşte Facebook informaţiile tale</a>.";
+"com_accountkit_ios_phone_sending_sms" = "Trimitere cod prin SMS";
 "com_accountkit_logging_in" = "Conectare...";
 "com_accountkit_other_ways_to_get_code" = "Alte modalităţi de obţinere a codului:";
 "com_accountkit_phone_error_title" = "Te rugăm să introduci un număr valid de mobil.";
 "com_accountkit_phone_loading_title" = "Număr în curs de verificare...";
-"com_accountkit_phone_login_phone_number_placeholder" = "Număr";
 "com_accountkit_phone_login_retry_title" = "Confirmă numărul de mobil";
-"com_accountkit_phone_login_text" = "Atinge %1$@ pentru a primi o confirmare prin SMS de la Account Kit oferit de Facebook. %2$@ folosește tehnologiile Facebook pentru a te ajuta să te conectezi, însă nu ai nevoie de un cont de Facebook. Este posibil să se aplice tarifele pentru mesaje și date. <a href=\"%3$@\">Află cum îți folosește Facebook datele</a>.";
+"com_accountkit_phone_login_text" = "Atinge %1$@ pentru a efectua verificarea contului cu Account Kit oferit de Facebook. Pentru a folosi Account Kit, nu ai nevoie de un cont de Facebook. Este posibil să primeşti un SMS pentru verificarea numărului. Se pot aplica tarife pentru mesaje şi date. <a href=\"%2$@\">Află cum foloseşte Facebook informaţiile tale</a>.";
 "com_accountkit_phone_login_title" = "Introdu numărul tău de mobil";
 "com_accountkit_phone_sending_code_on_fb_title" = "Se trimite codul pe Facebook...";
-"com_accountkit_phone_sending_sms" = "Se trimite un SMS cu codul";
 "com_accountkit_resend_check" = "Verifică Inboxul de SMS-uri";
 "com_accountkit_resend_email_text" = "Trimite un e-mail nou";
 "com_accountkit_resend_title" = "Dacă nu ai un cod:";

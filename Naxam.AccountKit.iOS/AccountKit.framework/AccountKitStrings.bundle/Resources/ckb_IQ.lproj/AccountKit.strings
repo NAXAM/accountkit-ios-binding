@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "ئەکاونتەکەت سەلمێندرا!";
-"com_accountkit_button_back" = "گەڕانەوە";
 "com_accountkit_button_begin" = "دەستپێکردن";
 "com_accountkit_button_cancel" = "بەتاڵی بکەوە";
 "com_accountkit_button_confirm" = "تەئیدکردن";
@@ -71,7 +70,6 @@
             href=\"%4$@\">بەکارهێنانی کووکی</a>ی فەیسبووک لەسەر %1$@ تەپ بکە. <a href=\"%5$@\">زۆرتر بزانە</a> لەبارەی ئەوەی کە ڕاستیی ئەکاونتەکەت چۆن سەلمێنرا.";
 "com_accountkit_confirmation_code_text" = "هیچ کۆدێکم بۆ نەهاتووە";
 "com_accountkit_confirmation_code_title" = "کۆدەکەت داخل بکە";
-"com_accountkit_country_code_title" = "وڵاتەکەت هەڵبژێرە";
 "com_accountkit_email_invalid" = "ئەم ئیمەیلە نادروستە. تکایە دووبارە هەول بدە.";
 "com_accountkit_email_loading_title" = "خەریکین ئیمەیل دەنێرین...";
 "com_accountkit_email_login_retry_title" = "دووبارە ناونیشانی ئیمەیلەکەت داخل بکە";
@@ -86,11 +84,9 @@
 "com_accountkit_other_ways_to_get_code" = "ڕێگەکانی تر بۆ وەرگرتنی کۆد:";
 "com_accountkit_phone_error_title" = "تکایە ژمارە مۆبایلێکی دروست داخل بکە.";
 "com_accountkit_phone_loading_title" = "خەریکین ڕاستیی ژمارەکەت دەسەلمێنین...";
-"com_accountkit_phone_login_phone_number_placeholder" = "ژمارە";
 "com_accountkit_phone_login_retry_title" = "دووبارە ژمارە مۆبایلەکەت داخل بکە";
-"com_accountkit_phone_login_text" = "لەسەر %1$@ تەپ بکە بۆ ئەوەی کورتەنامەیەکی تەئیدکردن لە Account Kitی فەیسبووکەوە بنێردرێت بۆت. %2$@ تەکنەلۆژیای فەیسبووک بە کار دەهێنێت کە یارمەتیت دەدات بچیتە ناوەوە، بەڵام پێویست ناکات ئەکاونتی فەیسبووکت هەبێت. ڕەنگە نرخی کورتەنامە و دەیتات لێ بسێندرێت. <a href=\"%3$@\">بزانە فەیسبووک چۆن زانیاریەکانت بە کار دەهێنێت</a>.";
+"com_accountkit_phone_login_text" = "لەسەر %1$@ تەپ بکە بۆ سەلماندنی ڕاستیی ئەکاونەتەکەت بە Account Kitی فەیسبووک. بۆ بەکارهێنانی Account Kit پێویستت بە ئەکاونتی فەیسبووک نیە. ڕەنگە کورتەنامەیەک بنێردرێت بۆ سەلماندنی ڕاستیی ئەکاونتەکەت. ڕەنگە نرخی کورتەنامە و دەیتات لێ بسێندرێت. <a href=\"%2$@\">بزانە فەیسبووک چۆن زانیاریەکانت بە کار دەهێنێت</a>.";
 "com_accountkit_phone_login_title" = "ژمارە مۆبایلەکەت داخل بکە";
-"com_accountkit_phone_sending_sms" = "خەریکی ناردنی کورتەنامەیەکەین کە کۆدەکەتی تێدا یە";
 "com_accountkit_resend_check" = "ئینبۆکسی کورتەنامەت بپشکنە.";
 "com_accountkit_resend_email_text" = "ئیمەیلی نوێ بنێرە";
 "com_accountkit_resend_title" = "ئەگەر هیچ کۆدێکت بۆ نەهاتووە:";

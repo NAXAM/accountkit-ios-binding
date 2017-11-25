@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "অ্যাকাউন্ট যাচাই করা হয়েছে!";
-"com_accountkit_button_back" = "ফিরুন";
 "com_accountkit_button_begin" = "আরম্ভ করুন";
 "com_accountkit_button_cancel" = "বাতিল করুন";
 "com_accountkit_button_confirm" = "নিশ্চিত করুন";
@@ -50,7 +49,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Facebook এর <a href=\"%2$@\">শর্তাবলী</a>, <a href=\"%3$@\">ডেটা নীতি</a> এবং <a href=\"%4$@\">কুকির ব্যবহার</a> স্বীকার করতে %1$@ এ আলতো চাপুন৷ <a href=\"%5$@\">আরও জানুন</a> কিভাবে আপনার অ্যাকাউন্ট যাচাই করা হয়েছে সে সম্বন্ধে৷";
 "com_accountkit_confirmation_code_text" = "আমি কোনও কোড পাইনি";
 "com_accountkit_confirmation_code_title" = "আপনার কোড লিখুন";
-"com_accountkit_country_code_title" = "আপনার দেশ নির্বাচন করুন";
 "com_accountkit_email_invalid" = "এই ইমেলটি ভুল৷ অনুগ্রহ করে আবার চেষ্টা করুন৷";
 "com_accountkit_email_loading_title" = "আপনার ইমেল ঠিকানা যাচাই করছে ...";
 "com_accountkit_email_login_retry_title" = "আপনার ইমেল নিশ্চিত করুন";
@@ -61,16 +59,19 @@
 "com_accountkit_enter_code_sent_to" = "%1$@ এ পাঠানো কোডটি লিখুন৷";
 "com_accountkit_error_title" = "একটি সিস্টেম সংক্রান্ত সমস্যা ঘটেছে। অনুগ্রহ করে আবার চেষ্টা করুন।";
 "com_accountkit_facebook_code_entry_title" = "Facebook থেকে আপনার কোড লিখুন";
+"com_accountkit_ios_button_back" = "ফিরে যান";
+"com_accountkit_ios_country_code_title" = "আপনার দেশ নির্বাচন করুন";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "নম্বর";
+"com_accountkit_ios_phone_login_text" = "Facebook দ্বারা পরিচালিত Account Kit থেকে একটি এসএমএস নিশ্চিতকরণ পেতে %1$@ এ আলতো চাপুন৷ %2$@ আপনাকে সাইন ইন করতে সাহায্য করার জন্য Facebook প্রযুক্তি ব্যবহার করছে তবে আপনার কোনও Facebook অ্যাকাউন্ট প্রয়োজন নেই৷ বার্তা এবং ডেটার হার প্রযোজ্য হতে পারে৷ <a href=\"%3$@\">Facebook কিভাবে আপনার তথ্য ব্যবহার করে তা জানুন</a>৷";
+"com_accountkit_ios_phone_sending_sms" = "আপনার কোডের সাথে একটি SMS পাঠানো";
 "com_accountkit_logging_in" = "লগ ইন হচ্ছে...";
 "com_accountkit_other_ways_to_get_code" = "কোড পাওয়ার অন্যান্য উপায়গুলি:";
 "com_accountkit_phone_error_title" = "অনুগ্রহ করে একটি বৈধ মোবাইল নম্বর লিখুন৷";
 "com_accountkit_phone_loading_title" = "আপনার নম্বর যাচাই করছে...";
-"com_accountkit_phone_login_phone_number_placeholder" = "নম্বর";
 "com_accountkit_phone_login_retry_title" = "আপনার মোবাইল নম্বর নিশ্চিত করুন";
-"com_accountkit_phone_login_text" = "Facebook পরিচালিত Account Kit থেকে একটি নিশ্চিতকরণ এসএমএস পেতে %1$@ -এ আলতো চাপ দিন৷ আপনাকে সাইন ইন করাতে %2$@, Facebook এর প্রযুক্তি ব্যবহার করে, কিন্তু তার জন্য আপনার কোনো Facebook অ্যাকাউন্টের প্রয়োজন নেই৷ বার্তা এবং ডেটা রেট প্রযোজ্য হতে পারে। <a href=\"%3$@\">Facebook আপনার তথ্য কিভাবে ব্যবহার করে তা জানুন</a>|";
+"com_accountkit_phone_login_text" = "Facebook দ্বারা পরিচালিত Account Kit এর মাধ্যমে আপনার অ্যাকাউন্ট যাচাই করতে %1$@ এ আলতো চাপুন৷ Account Kit ব্যবহার করার জন্য আপনার কোনও Facebook অ্যাকাউন্টের প্রয়োজন নেই৷ আপনার নম্বর যাচাই করতে একটি এসএমএস পাঠানো হতে পারে৷ বার্তা এবং ডেটার হার প্রযোজ্য হতে পারে৷ <a href=\"%2$@\">আপনার তথ্য Facebook কিভাবে ব্যবহার করছে তা জানুন</a>৷";
 "com_accountkit_phone_login_title" = "আপনার মোবাইল নম্বর লিখুন";
 "com_accountkit_phone_sending_code_on_fb_title" = "Facebook এ কোড পাঠাচ্ছে...";
-"com_accountkit_phone_sending_sms" = "আপনার কোড সহ একটি এসএমএস পাঠানো হচ্ছে";
 "com_accountkit_resend_check" = "আপনার এসএমএস ইনবক্স পরীক্ষা করুন";
 "com_accountkit_resend_email_text" = "নতুন ইমেল পাঠান";
 "com_accountkit_resend_title" = "আপনি যদি কোনও কোড না পেয়ে থাকেন:";

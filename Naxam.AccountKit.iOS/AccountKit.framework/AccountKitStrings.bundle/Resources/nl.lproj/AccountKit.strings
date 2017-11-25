@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Account bevestigd.";
-"com_accountkit_button_back" = "Terug";
 "com_accountkit_button_begin" = "Beginnen";
 "com_accountkit_button_cancel" = "Annuleren";
 "com_accountkit_button_confirm" = "Bevestigen";
@@ -49,7 +48,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Tik op %1$@ voor het accepteren van het Facebook-beleid inzake <a href=\"%2$@\">voorwaarden</a>, <a href=\"%3$@\">gegevens</a> en <a href=\"%4$@\">cookiegebruik</a>. <a href=\"%5$@\">Meer informatie</a> over hoe je account is geverifieerd.";
 "com_accountkit_confirmation_code_text" = "Ik heb geen code ontvangen";
 "com_accountkit_confirmation_code_title" = "Je code invoeren";
-"com_accountkit_country_code_title" = "Selecteer je land";
 "com_accountkit_email_invalid" = "Dit e-mailadres is onjuist. Probeer het opnieuw.";
 "com_accountkit_email_loading_title" = "Je e-mailadres verifiëren...";
 "com_accountkit_email_login_retry_title" = "Je e-mailadres bevestigen";
@@ -60,16 +58,19 @@
 "com_accountkit_enter_code_sent_to" = "Voer de code in die naar %1$@ is verzonden";
 "com_accountkit_error_title" = "Er is een systeemfout opgetreden. Probeer het opnieuw.";
 "com_accountkit_facebook_code_entry_title" = "Voer je code van Facebook in";
+"com_accountkit_ios_button_back" = "Vorige";
+"com_accountkit_ios_country_code_title" = "Selecteer je land";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Nummer";
+"com_accountkit_ios_phone_login_text" = "Tik op %1$@ om een bevestigings-sms te ontvangen van Account Kit van Facebook. %2$@ gebruikt Facebook-technologie om je te helpen bij aanmelden, maar je hebt geen Facebook-account nodig. Er kunnen kosten voor berichten en data van toepassing zijn. <a href=\"%3$@\">Meer informatie over hoe Facebook je gegevens gebruikt</a>.";
+"com_accountkit_ios_phone_sending_sms" = "Sms sturen met je code";
 "com_accountkit_logging_in" = "Aanmelden\U2026";
 "com_accountkit_other_ways_to_get_code" = "Andere manieren om de code te ontvangen:";
 "com_accountkit_phone_error_title" = "Voer een geldig mobiel nummer in.";
 "com_accountkit_phone_loading_title" = "Je nummer verifiëren...";
-"com_accountkit_phone_login_phone_number_placeholder" = "Nummer";
 "com_accountkit_phone_login_retry_title" = "Bevestig je mobiele nummer";
-"com_accountkit_phone_login_text" = "Tik op %1$@ om een sms-bevestiging te ontvangen van Account Kit van Facebook. %2$@ gebruikt Facebook-technologie om je te helpen bij het aanmelden, maar je hebt geen Facebook-account nodig. Mogelijk zijn bericht- en datatarieven van toepassing. <a href=\"%3$@\">Meer informatie over hoe Facebook je informatie gebruikt</a>.";
+"com_accountkit_phone_login_text" = "Tik op %1$@ om je account te verifiëren via Account Kit van Facebook. Je hebt geen Facebook-account nodig om Account Kit te kunnen gebruiken. Mogelijk wordt er een sms verzonden om je nummer te verifiëren. Er kunnen kosten voor berichten en data van toepassing zijn. <a href=\"%2$@\">Meer informatie over hoe Facebook je gegevens gebruikt</a>.";
 "com_accountkit_phone_login_title" = "Voer je mobiele nummer in";
 "com_accountkit_phone_sending_code_on_fb_title" = "Code sturen op Facebook...";
-"com_accountkit_phone_sending_sms" = "Een sms met je code versturen";
 "com_accountkit_resend_check" = "Controleer je sms-inbox";
 "com_accountkit_resend_email_text" = "Nieuwe e-mail verzenden";
 "com_accountkit_resend_title" = "Als je geen code hebt ontvangen:";

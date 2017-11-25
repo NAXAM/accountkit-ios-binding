@@ -3,14 +3,14 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.AccountKit.iOS</id>
-        <version>4.26.0</version>
+        <version>4.28.0</version>
         <authors>NAXAM CO.,LTD</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - AccountKit for iOS</title>
         <summary>Xamarin.iOS Binding Library - AccountKit</summary>
         <description>Xamarin.iOS Binding Library - AccountKit</description>
-        <releaseNotes>AccountKit v4.26.0</releaseNotes>
+        <releaseNotes>AccountKit v4.28.0</releaseNotes>
         <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/accountkit-ios-binding</projectUrl>

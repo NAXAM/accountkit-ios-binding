@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Conta verificada!";
-"com_accountkit_button_back" = "Voltar";
 "com_accountkit_button_begin" = "Iniciar";
 "com_accountkit_button_cancel" = "Cancelar";
 "com_accountkit_button_confirm" = "Confirmar";
@@ -49,7 +48,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Toque em %1$@ para aceitar os <a href=\"%2$@\">Termos</a>, a <a href=\"%3$@\">Política de Dados</a> e o <a href=\"%4$@\">uso de cookies</a> do Facebook. <a href=\"%5$@\">Saiba mais</a> sobre como sua conta foi verificada.";
 "com_accountkit_confirmation_code_text" = "Eu não recebi um código";
 "com_accountkit_confirmation_code_title" = "Insira seu código";
-"com_accountkit_country_code_title" = "Selecione seu país";
 "com_accountkit_email_invalid" = "Este email está incorreto. Tente novamente.";
 "com_accountkit_email_loading_title" = "Verificando seu endereço de email...";
 "com_accountkit_email_login_retry_title" = "Confirme seu email";
@@ -60,16 +58,19 @@
 "com_accountkit_enter_code_sent_to" = "Insira o código enviado para %1$@";
 "com_accountkit_error_title" = "Ocorreu um problema no sistema. Tente novamente.";
 "com_accountkit_facebook_code_entry_title" = "Insira seu código do Facebook";
+"com_accountkit_ios_button_back" = "Voltar";
+"com_accountkit_ios_country_code_title" = "Selecione o seu país";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Número";
+"com_accountkit_ios_phone_login_text" = "Toque em %1$@ para receber uma confirmação por SMS do Account Kit com tecnologia do Facebook. O aplicativo %2$@ usa tecnologia do Facebook para ajudar você a fazer login, mas você não precisa de uma conta do Facebook. Podem ser cobradas tarifas de dados e de mensagens. <a href=\"%3$@\">Saiba como o Facebook usa suas informações</a>.";
+"com_accountkit_ios_phone_sending_sms" = "Enviando um SMS com seu código";
 "com_accountkit_logging_in" = "Entrando\U2026";
 "com_accountkit_other_ways_to_get_code" = "Outras formas de receber o código:";
 "com_accountkit_phone_error_title" = "Insira um número de celular válido.";
 "com_accountkit_phone_loading_title" = "Verificando seu número...";
-"com_accountkit_phone_login_phone_number_placeholder" = "Número";
 "com_accountkit_phone_login_retry_title" = "Confirme seu número de celular";
-"com_accountkit_phone_login_text" = "Toque em %1$@ para receber um SMS de confirmação do Account Kit com a tecnologia do Facebook. O %2$@ utiliza a tecnologia do Facebook para ajudar a entrar, mas você não precisa de uma conta do Facebook. Taxas de mensagens e de dados podem ser aplicadas. <a href=\"%3$@\">Saiba como o Facebook usa suas informações</a>.";
+"com_accountkit_phone_login_text" = "Toque em %1$@ para verificar sua conta com Account Kit com tecnologia do Facebook. Você não precisa de uma conta do Facebook para usá-lo. Um SMS pode ser enviado para verificar seu número. Podem ser cobradas tarifas de dados e de mensagens. <a href=\"%2$@\">Saiba como o Facebook usa suas informações</a>.";
 "com_accountkit_phone_login_title" = "Insira seu número de celular";
 "com_accountkit_phone_sending_code_on_fb_title" = "Enviando o código no Facebook...";
-"com_accountkit_phone_sending_sms" = "Enviando um SMS com seu código";
 "com_accountkit_resend_check" = "Verifique sua caixa de entrada de SMS";
 "com_accountkit_resend_email_text" = "Enviar novo email";
 "com_accountkit_resend_title" = "Se você não recebeu um código:";

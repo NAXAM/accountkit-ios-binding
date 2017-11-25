@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "계정이 인증되었습니다!";
-"com_accountkit_button_back" = "뒤로";
 "com_accountkit_button_begin" = "시작";
 "com_accountkit_button_cancel" = "취소";
 "com_accountkit_button_confirm" = "확인";
@@ -50,7 +49,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Facebook의 <a href=\"%2$@\">약관</a>, <a href=\"%3$@\">데이터 정책</a> 및 <a href=\"%4$@\">쿠키 사용</a>에 동의하려면 %1$@ 버튼을 누르세요. 계정이 어떻게 인증되었는지 <a href=\"%5$@\">자세히 알아보세요</a>.";
 "com_accountkit_confirmation_code_text" = "코드를 받지 못했습니다";
 "com_accountkit_confirmation_code_title" = "코드를 입력하세요";
-"com_accountkit_country_code_title" = "국가 선택";
 "com_accountkit_email_invalid" = "이메일 주소가 올바르지 않습니다. 다시 시도하세요.";
 "com_accountkit_email_loading_title" = "이메일 주소 확인 중...";
 "com_accountkit_email_login_retry_title" = "이메일을 확인하세요";
@@ -61,16 +59,19 @@
 "com_accountkit_enter_code_sent_to" = "%1$@번으로 전송된 코드를 입력하세요";
 "com_accountkit_error_title" = "시스템 문제가 발생했습니다. 다시 시도해주세요.";
 "com_accountkit_facebook_code_entry_title" = "Facebook에서 전송된 코드를 입력하세요";
+"com_accountkit_ios_button_back" = "돌아가기";
+"com_accountkit_ios_country_code_title" = "국가 선택";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "전화번호";
+"com_accountkit_ios_phone_login_text" = "%1$@ 버튼을 누르면 Facebook의 Account Kit에서 확인 SMS를 받을 수 있습니다. %2$@ 앱은 로그인에 Facebook 기술을 사용하지만 Facebook 계정 없이도 로그인할 수 있습니다. 이용 시 메시지와 데이터 요금이 부과될 수 있습니다. <a href=\"%3$@\">Facebook에서 사용자 정보를 이용하는 방식 알아보기</a>.";
+"com_accountkit_ios_phone_sending_sms" = "코드가 포함된 SMS 전송";
 "com_accountkit_logging_in" = "로그인하는 중\U2026";
 "com_accountkit_other_ways_to_get_code" = "코드를 받는 다른 방법:";
 "com_accountkit_phone_error_title" = "올바른 휴대폰 번호를 입력하세요.";
 "com_accountkit_phone_loading_title" = "번호 인증 중...";
-"com_accountkit_phone_login_phone_number_placeholder" = "번호";
 "com_accountkit_phone_login_retry_title" = "휴대폰 번호를 확인하세요";
-"com_accountkit_phone_login_text" = "Facebook Account Kit로부터 SMS 확인 메시지를 받으려면 %1$@ 버튼을 누르세요. %2$@ 앱은 Facebook 기술을 통해 간편한 로그인 서비스를 제공합니다. 단, Facebook 계정은 필요하지 않습니다. 전송 시 메시지 및 데이터 요금이 부과될 수 있습니다. <a href=\"%3$@\">Facebook에서 사용자 정보를 어떻게 이용하는지 알아보세요</a>.";
+"com_accountkit_phone_login_text" = "Facebook 계정 없이도 사용할 수 있는 Account Kit를 통해 계정을 인증하려면 %1$@ 버튼을 누르세요. 번호를 인증하기 위해 SMS가 전송될 수 있으며 메시지와 데이터 요금이 부과될 수 있습니다. <a href=\"%2$@\">Facebook에서 사용자 정보를 이용하는 방식 알아보기</a>";
 "com_accountkit_phone_login_title" = "휴대폰 번호를 입력하세요";
 "com_accountkit_phone_sending_code_on_fb_title" = "Facebook에 코드 보내는 중...";
-"com_accountkit_phone_sending_sms" = "코드가 포함된 SMS 전송 중";
 "com_accountkit_resend_check" = "SMS 수신함을 확인하세요";
 "com_accountkit_resend_email_text" = "새 이메일 전송";
 "com_accountkit_resend_title" = "코드를 받지 못한 경우:";

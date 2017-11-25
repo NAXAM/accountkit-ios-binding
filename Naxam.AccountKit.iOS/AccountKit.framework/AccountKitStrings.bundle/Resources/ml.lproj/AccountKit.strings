@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "അക്കൗണ്ട് പരിശോധിച്ചുറപ്പിച്ചു!";
-"com_accountkit_button_back" = "മടങ്ങുക";
 "com_accountkit_button_begin" = "ആരംഭിക്കുക";
 "com_accountkit_button_cancel" = "റദ്ദാക്കുക";
 "com_accountkit_button_confirm" = "സ്ഥിരീകരിക്കുക";
@@ -50,7 +49,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Facebook-ന്റെ <a href=\"%2$@\">നിബന്ധനകൾ</a>, <a href=\"%3$@\">ഡാറ്റാ നയം</a>, <a href=\"%4$@\">കുക്കി ഉപയോഗം</a> എന്നിവ അംഗീകരിക്കാൻ %1$@ ടാപ്പുചെയ്യുക. എങ്ങനെയാണ് നിങ്ങളുടെ അക്കൗണ്ട് പരിശോധിച്ചുറപ്പിച്ചത് എന്നതിനെക്കുറിച്ച് <a href=\"%5$@\">കൂടുതലറിയുക</a>.";
 "com_accountkit_confirmation_code_text" = "എനിക്ക് കോഡ് ലഭിച്ചില്ല";
 "com_accountkit_confirmation_code_title" = "നിങ്ങളുടെ കോഡ് നൽകുക";
-"com_accountkit_country_code_title" = "നിങ്ങളുടെ രാജ്യം തിരഞ്ഞെടുക്കൂ";
 "com_accountkit_email_invalid" = "ഈ ഇമെയിൽ തെറ്റാണ്. വീണ്ടും ശ്രമിക്കുക.";
 "com_accountkit_email_loading_title" = "നിങ്ങളുടെ ഇമെയിൽ വിലാസം പരിശോധിച്ചുറപ്പിക്കുന്നു \U2026";
 "com_accountkit_email_login_retry_title" = "നിങ്ങളുടെ ഇമെയിൽ സ്ഥിരീകരിക്കുക";
@@ -62,16 +60,20 @@
 "com_accountkit_enter_code_sent_to" = "%1$@-ലേക്ക് അയച്ച കോഡ് നൽകുക";
 "com_accountkit_error_title" = "ഒരു സിസ്‌റ്റം പ്രശ്‌നമുണ്ടായി. വീണ്ടും ശ്രമിക്കുക.";
 "com_accountkit_facebook_code_entry_title" = "Facebook-ൽ നിന്നുള്ള ഒരു കോഡ് നൽകുക";
+"com_accountkit_ios_button_back" = "മടങ്ങുക";
+"com_accountkit_ios_country_code_title" = "നിങ്ങളുടെ രാജ്യം തിരഞ്ഞെടുക്കുക";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "നമ്പര്‍";
+"com_accountkit_ios_phone_login_text" = "Facebook നൽകുന്ന Account Kit-ൽ നിന്ന് ഒരു SMS സ്ഥിരീകരണം ലഭിക്കുന്നതിന് %1$@ ടാപ്പുചെയ്യുക. നിങ്ങളെ സൈൻ ഇൻ ചെയ്യാൻ സഹായിക്കുന്നതിന് %2$@ Facebook സങ്കേതികവിദ്യ ഉപയോഗിക്കുന്നു, എന്നാൽ നിങ്ങൾക്ക് 
+Facebook അക്കൗണ്ട് ആവശ്യമില്ല. സന്ദേശ, ഡാറ്റ നിരക്കുകൾ ബാധകമായേക്കാം. <a href=\"%3$@\">Facebook എങ്ങനെയാണ് നിങ്ങളുടെ വിവരം ഉപയോഗിക്കുന്നതെന്നറിയുക</a>.";
+"com_accountkit_ios_phone_sending_sms" = "നിങ്ങളുടെ കോഡ് ഉപയോഗിച്ച് ഒരു SMS അയയ്‌ക്കുന്നു";
 "com_accountkit_logging_in" = "ലോഗിൻ ചെയ്യുന്നു\U2026";
 "com_accountkit_other_ways_to_get_code" = "കോഡ് ലഭിക്കാനുള്ള മറ്റ് വഴികൾ:";
 "com_accountkit_phone_error_title" = "സാധുതയുള്ള മൊബൈൽ നമ്പർ നൽകുക.";
 "com_accountkit_phone_loading_title" = "നിങ്ങളുടെ നമ്പർ പരിശോധിച്ചുറപ്പിക്കുന്നു\U2026";
-"com_accountkit_phone_login_phone_number_placeholder" = "നമ്പർ";
 "com_accountkit_phone_login_retry_title" = "നിങ്ങളുടെ മൊബൈൽ നമ്പർ സ്ഥിരീകരിക്കുക";
-"com_accountkit_phone_login_text" = "Facebook നൽകുന്ന Account Kit-ൽ നിന്ന് SMS സ്ഥിരീകരണം ലഭിക്കുന്നതിന് %1$@ ടാപ്പുചെയ്യുക. നിങ്ങളെ സൈൻ ഇൻ ചെയ്യാൻ സഹായിക്കുന്നതിന് %2$@, Facebook സാങ്കേതിക വിദ്യ ഉപയോഗിക്കുന്നു, നിങ്ങൾക്ക് ഒരു Facebook അക്കൗണ്ട് ആവശ്യമില്ല. സന്ദേശ, ഡാറ്റ നിരക്കുകൾ ബാധകമായേക്കാം. <a href=\"%3$@\">നിങ്ങളുടെ വിവരം Facebook എങ്ങനെ ഉപയോഗിക്കുമെന്നതിനെക്കുറിച്ച് അറിയുക</a>.";
+"com_accountkit_phone_login_text" = "Facebook നൽകുന്ന Account Kit ഉപയോഗിച്ച് നിങ്ങളുടെ അക്കൗണ്ട് പരിശോധിച്ചുറപ്പിക്കാൻ %1$@ ടാപ്പുചെയ്യുക. Account Kit ഉപയോഗിക്കാൻ നിങ്ങൾക്ക് Facebook അക്കൗണ്ട് ആവശ്യമില്ല. നിങ്ങളുടെ നമ്പർ പരിശോധിച്ചുറപ്പിക്കാൻ ഒരു SMS അയച്ചേക്കാം. <a href=\"%2$@\">Facebook എങ്ങനെയാണ് നിങ്ങളുടെ വിവരം ഉപയോഗിക്കുന്നതെന്നറിയുക</a>.";
 "com_accountkit_phone_login_title" = "നിങ്ങളുടെ മൊബൈൽ നമ്പർ നൽകുക";
 "com_accountkit_phone_sending_code_on_fb_title" = "Facebook-ൽ കോഡ് അയയ്‌ക്കുന്നു\U2026";
-"com_accountkit_phone_sending_sms" = "നിങ്ങളുടെ കോഡ്‌ അടങ്ങിയ ഒരു SMS അയയ്‌ക്കുന്നു";
 "com_accountkit_resend_check" = "നിങ്ങളുടെ SMS ഇൻബോക്‌സ് പരിശോധിക്കുക";
 "com_accountkit_resend_email_text" = "പുതിയ ഇമെയിൽ അയയ്‌ക്കുക";
 "com_accountkit_resend_title" = "നിങ്ങൾക്ക് കോഡ് ലഭിച്ചിട്ടില്ലെങ്കിൽ:";

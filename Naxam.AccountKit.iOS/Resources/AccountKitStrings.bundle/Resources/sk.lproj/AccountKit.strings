@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Účet je overený!";
-"com_accountkit_button_back" = "Späť";
 "com_accountkit_button_begin" = "Začať";
 "com_accountkit_button_cancel" = "Zrušiť";
 "com_accountkit_button_confirm" = "Potvrdiť";
@@ -49,7 +48,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Ťuknutím na %1$@ akceptujete <a href=\"%2$@\">Podmienky</a>, <a href=\"%3$@\">Zásady využívania údajov</a> a <a href=\"%4$@\">zásady používania cookies</a> Facebooku. <a href=\"%5$@\">Prečítajte si viac</a> o tom, ako bol overený váš účet.";
 "com_accountkit_confirmation_code_text" = "Neprišiel mi kód";
 "com_accountkit_confirmation_code_title" = "Zadajte svoj kód";
-"com_accountkit_country_code_title" = "Vyberte svoju krajinu";
 "com_accountkit_email_invalid" = "Táto e-mailová adresa je nesprávna. Skúste znova.";
 "com_accountkit_email_loading_title" = "Overuje sa vaša e.mailová adresa\U2026";
 "com_accountkit_email_login_retry_title" = "Potvrďte svoju e-mailovú adresu";
@@ -60,16 +58,17 @@
 "com_accountkit_enter_code_sent_to" = "Zadajte kód, ktorý bol zaslaný na %1$@";
 "com_accountkit_error_title" = "Vyskytol sa systémový problém. Skúste to znova.";
 "com_accountkit_facebook_code_entry_title" = "Zadajte svoj kód z Facebooku";
+"com_accountkit_ios_country_code_title" = "Vyberte svoju krajinu";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Číslo";
+"com_accountkit_ios_phone_sending_sms" = "Posiela sa SMS s vaším kódom";
 "com_accountkit_logging_in" = "Prihlasuje sa...";
 "com_accountkit_other_ways_to_get_code" = "Iné spôsoby získania kódu:";
 "com_accountkit_phone_error_title" = "Zadajte platné mobilné číslo.";
 "com_accountkit_phone_loading_title" = "Overuje sa vaše číslo\U2026";
-"com_accountkit_phone_login_phone_number_placeholder" = "Číslo";
 "com_accountkit_phone_login_retry_title" = "Potvrďte svoje mobilné číslo";
-"com_accountkit_phone_login_text" = "Ťuknite na %1$@, aby ste od služby Account Kit powered by Facebook dostali potvrdzovaciu SMS. %2$@ vám umožňuje prihlásiť sa použitím technológie Facebooku, nemusíte však mať účet na Facebooku. Môžu sa na to vzťahovať poplatky za SMS a dáta. <a href=\"%3$@\">Prečítajte si, ako Facebook používa vaše informácie</a>.";
+"com_accountkit_phone_login_text" = "Ťuknite na tlačidlo %1$@ na overenie svojho účtu cez službu Account Kit powered by Facebook. Na použitie Account Kitu nepotrebujete účet na Facebooku. Môže vám byť zaslaná SMS na overenie vášho čísla. Môžu sa na to vzťahovať poplatky za správy a dáta. <a href=\"%2$@\">Prečítajte si, ako Facebook používa vaše informácie</a>.";
 "com_accountkit_phone_login_title" = "Zadajte svoje mobilné číslo";
 "com_accountkit_phone_sending_code_on_fb_title" = "Kód sa posiela na Facebooku\U2026";
-"com_accountkit_phone_sending_sms" = "Posiela sa SMS s vaším kódom";
 "com_accountkit_resend_check" = "Skontrolujte si prijaté SMS";
 "com_accountkit_resend_email_text" = "Poslať nový e-mail";
 "com_accountkit_resend_title" = "Ak ste nedostali kód:";

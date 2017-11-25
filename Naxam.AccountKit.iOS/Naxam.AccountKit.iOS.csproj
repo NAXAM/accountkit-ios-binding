@@ -69,6 +69,7 @@
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\el.lproj\AccountKitCountryCode.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\en.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\en.lproj\AccountKitCountryCode.strings" />
+    <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\en_GB.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\es.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\es.lproj\AccountKitCountryCode.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\es_ES.lproj\AccountKit.strings" />
@@ -101,6 +102,7 @@
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\mr.lproj\AccountKitCountryCode.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\ms.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\ms.lproj\AccountKitCountryCode.strings" />
+    <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\my.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\my_MM.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\my_MM.lproj\AccountKitCountryCode.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\nb.lproj\AccountKit.strings" />
@@ -123,6 +125,7 @@
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\sk.lproj\AccountKitCountryCode.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\sv.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\sv.lproj\AccountKitCountryCode.strings" />
+    <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\sw.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\sw_KE.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\sw_KE.lproj\AccountKitCountryCode.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\ta.lproj\AccountKit.strings" />
@@ -133,6 +136,7 @@
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\th.lproj\AccountKitCountryCode.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\tr.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\tr.lproj\AccountKitCountryCode.strings" />
+    <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\ur.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\ur_PK.lproj\AccountKit.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\ur_PK.lproj\AccountKitCountryCode.strings" />
     <BundleResource Include="Resources\AccountKitStrings.bundle\Resources\vi.lproj\AccountKit.strings" />

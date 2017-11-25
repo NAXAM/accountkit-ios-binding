@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "खाता सत्यापित हो गया!";
-"com_accountkit_button_back" = "वापस जाएँ";
 "com_accountkit_button_begin" = "शुरू करें";
 "com_accountkit_button_cancel" = "रद्द करें";
 "com_accountkit_button_confirm" = "कन्फ़र्म करें";
@@ -50,7 +49,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Facebook की <a href=\"%2$@\">शर्तें</a>, <a href=\"%3$@\">डेटा नीति</a> और <a href=\"%4$@\">कुकी उपयोग</a> को स्वीकार करने के लिए %1$@ पर टैप करें. इस बारे में <a href=\"%5$@\">अधिक जानें</a> कि आपका खाते का सत्यापन कैसे हुआ था.";
 "com_accountkit_confirmation_code_text" = "मुझे कोई कोड नहीं मिला";
 "com_accountkit_confirmation_code_title" = "अपना कोड डालें";
-"com_accountkit_country_code_title" = "अपने देश का चयन करें";
 "com_accountkit_email_invalid" = "यह ईमेल गलत है. कृपया फिर से कोशिश करें.";
 "com_accountkit_email_loading_title" = "आपका ईमेल पता सत्यापित किया जा रहा है...";
 "com_accountkit_email_login_retry_title" = "अपने ईमेल की पुष्टि करें";
@@ -61,16 +59,18 @@
 "com_accountkit_enter_code_sent_to" = "%1$@ पर भेजा गया कोड डालें.";
 "com_accountkit_error_title" = "कोई सिस्टम समस्या हुई. कृपया फिर से कोशिश करें.";
 "com_accountkit_facebook_code_entry_title" = "Facebook से प्राप्त अपना कोड डालें";
+"com_accountkit_ios_button_back" = "वापस जाएँ";
+"com_accountkit_ios_country_code_title" = "अपने देश का चयन करें";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "नंबर";
+"com_accountkit_ios_phone_sending_sms" = "आपके कोड के साथ एक SMS भेजा जा रहा है";
 "com_accountkit_logging_in" = "लॉग इन हो रहा है...";
 "com_accountkit_other_ways_to_get_code" = "कोड प्राप्त करने के अन्य तरीके:";
 "com_accountkit_phone_error_title" = "कृपया कोई मान्य मोबाइल नंबर डालें.";
 "com_accountkit_phone_loading_title" = "आपका नंबर सत्यापित कर रहे हैं\U2026";
-"com_accountkit_phone_login_phone_number_placeholder" = "नंबर";
 "com_accountkit_phone_login_retry_title" = "अपना मोबाइल नंबर कन्फ़र्म करें";
-"com_accountkit_phone_login_text" = "Facebook द्वारा संचालित Account Kit से SMS कंफ़र्मेशन पाने के लिए %1$@ टैप करें. साइन इन करने में आपकी सहायता करने के लिए %2$@ Facebook तकनीक का उपयोग करता है, लेकिन आपको Facebook खाते की आवश्यकता नहीं है. संदेश और डेटा दरें लागू हो सकती हैं. <a href=\"%3$@\">जानें कि Facebook आपकी जानकारी का कैसे उपयोग करता है</a>.";
+"com_accountkit_phone_login_text" = "Facebook द्वारा संचालित Account Kit के साथ अपना खाता सत्यापित करने के लिए %1$@ पर टैप करें. Account Kit का उपयोग करने के लिए आपको Facebook खाते की आवश्यकता नहीं है. आपका नंबर सत्यापित करने के लिए SMS भेजा जा सकता है. संदेश और डेटा के रेट लागू हो सकते हैं. <a href=\"%2$@\">जानें कि Facebook आपकी जानकारी का उपयोग कैसे करता है</a>.";
 "com_accountkit_phone_login_title" = "अपना मोबाइल नंबर डालें";
 "com_accountkit_phone_sending_code_on_fb_title" = "Facebook पर कोड भेजा जा रहा है\U2026";
-"com_accountkit_phone_sending_sms" = "आपके कोड के साथ SMS भेजा जा रहा है";
 "com_accountkit_resend_check" = "अपना SMS इनबॉक्स देखें";
 "com_accountkit_resend_email_text" = "नया ईमेल भेजें";
 "com_accountkit_resend_title" = "अगर आपको कोई कोड नहीं मिला है:";

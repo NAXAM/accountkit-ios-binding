@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Konto zweryfikowane.";
-"com_accountkit_button_back" = "Wstecz";
 "com_accountkit_button_begin" = "Rozpocznij";
 "com_accountkit_button_cancel" = "Anuluj";
 "com_accountkit_button_confirm" = "Potwierdź";
@@ -49,7 +48,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Dotknij przycisku %1$@, aby zaakceptować <a href=\"%2$@\">Regulamin</a>, <a href=\"%3$@\">Zasady dotyczące danych</a> oraz <a href=\"%4$@\">Zasady dotyczące plików cookie</a> Facebooka. <a href=\"%5$@\">Dowiedz się więcej</a> o tym, jak zostało zweryfikowane Twoje konto.";
 "com_accountkit_confirmation_code_text" = "Kod nie dotarł";
 "com_accountkit_confirmation_code_title" = "Wprowadź swój kod";
-"com_accountkit_country_code_title" = "Wybierz kraj";
 "com_accountkit_email_invalid" = "Nieprawidłowy adres e-mail. Spróbuj ponownie.";
 "com_accountkit_email_loading_title" = "Weryfikowanie adresu e-mail\U2026";
 "com_accountkit_email_login_retry_title" = "Potwierdź adres e-mail";
@@ -60,16 +58,19 @@
 "com_accountkit_enter_code_sent_to" = "Wprowadź kod wysłany pod numer %1$@";
 "com_accountkit_error_title" = "Wystąpił problem systemowy. Spróbuj ponownie.";
 "com_accountkit_facebook_code_entry_title" = "Wprowadź kod z Facebooka";
+"com_accountkit_ios_button_back" = "Wstecz";
+"com_accountkit_ios_country_code_title" = "Wybierz kraj";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Numer";
+"com_accountkit_ios_phone_login_text" = "Dotknij przycisku %1$@, aby odebrać SMS z potwierdzeniem z aplikacji Account Kit obsługiwanej przez Facebooka. %2$@ używa technologii Facebooka do zalogowania Cię, ale nie musisz mieć konta na Facebooku. Mogą być naliczane opłaty za przesyłanie wiadomości i transmisję danych. <a href=\"%3$@\">Dowiedz się, jak Facebook postępuje z Twoimi informacjami</a>.";
+"com_accountkit_ios_phone_sending_sms" = "Wysyłanie wiadomości SMS z Twoim kodem";
 "com_accountkit_logging_in" = "Logowanie\U2026";
 "com_accountkit_other_ways_to_get_code" = "Inne sposoby uzyskania kodu:";
 "com_accountkit_phone_error_title" = "Wprowadź prawidłowy numer telefonu komórkowego.";
 "com_accountkit_phone_loading_title" = "Weryfikowanie numeru\U2026";
-"com_accountkit_phone_login_phone_number_placeholder" = "Numer";
 "com_accountkit_phone_login_retry_title" = "Potwierdź swój numer telefonu";
-"com_accountkit_phone_login_text" = "Dotknij %1$@, aby otrzymać SMS z potwierdzeniem z aplikacji Account Kit obsługiwanej przez Facebooka. %2$@ wykorzystuje technologię Facebooka w celu ułatwienia logowania, lecz nie jest konieczne posiadanie konta na Facebooku. Mogą zostać naliczone opłaty za przesyłanie wiadomości i danych. <a href=\"%3$@\">Dowiedz się, jak Facebook wykorzystuje Twoje dane</a>";
+"com_accountkit_phone_login_text" = "Dotknij przycisku %1$@, aby zweryfikować konto przy użyciu aplikacji Account Kit obsługiwanej przez Facebooka. Do korzystania z aplikacji Account Kit nie jest wymagane konto na Facebooku. W celu weryfikacji numeru telefonu może zostać wysłany SMS, co może się wiązać z opłatami za przesyłanie wiadomości i danych. <a href=\"%2$@\">Dowiedz się, jak Facebook wykorzystuje Twoje informacje</a>.";
 "com_accountkit_phone_login_title" = "Wprowadź numer telefonu komórkowego";
 "com_accountkit_phone_sending_code_on_fb_title" = "Wysyłanie kodu na Facebooku\U2026";
-"com_accountkit_phone_sending_sms" = "Wysyłanie SMSa z kodem";
 "com_accountkit_resend_check" = "Sprawdź skrzynkę odbiorczą wiadomości SMS";
 "com_accountkit_resend_email_text" = "Wyślij nowy e-mail";
 "com_accountkit_resend_title" = "Jeżeli kod nie dotarł:";

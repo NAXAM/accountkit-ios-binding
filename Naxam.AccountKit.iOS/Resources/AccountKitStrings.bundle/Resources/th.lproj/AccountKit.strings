@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "บัญชีผู้ใช้ผ่านการตรวจสอบยืนยัน!";
-"com_accountkit_button_back" = "ย้อนกลับ";
 "com_accountkit_button_begin" = "เริ่มต้น";
 "com_accountkit_button_cancel" = "ยกเลิก";
 "com_accountkit_button_confirm" = "ยืนยัน";
@@ -50,7 +49,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "แตะ %1$@ เพื่อยอมรับ<a href=\"%2$@\">ข้อกำหนด</a> <a href=\"%3$@\">นโยบายข้อมูล</a> และ<a href=\"%4$@\">การใช้คุกกี้</a>ของ Facebook <a href=\"%5$@\">เรียนรู้เพิ่มเติม</a>เกี่ยวกับวิธีการตรวจสอบยืนยันบัญชีผู้ใช้ของคุณ";
 "com_accountkit_confirmation_code_text" = "ฉันไม่ได้รับรหัส";
 "com_accountkit_confirmation_code_title" = "ป้อนรหัสของคุณ";
-"com_accountkit_country_code_title" = "เลือกประเทศของคุณ";
 "com_accountkit_email_invalid" = "อีเมลนี้ไม่ถูกต้อง โปรดลองอีกครั้ง";
 "com_accountkit_email_loading_title" = "กำลังตรวจสอบยืนยันที่อยู่อีเมลของคุณ...";
 "com_accountkit_email_login_retry_title" = "ยืนยันอีเมลของคุณ";
@@ -61,16 +59,19 @@
 "com_accountkit_enter_code_sent_to" = "ป้อนรหัสที่ถูกส่งไปยัง %1$@";
 "com_accountkit_error_title" = "เกิดปัญหาของระบบ โปรดลองอีกครั้ง";
 "com_accountkit_facebook_code_entry_title" = "ป้อนรหัสจาก Facebook ของคุณ";
+"com_accountkit_ios_button_back" = "ย้อนกลับ";
+"com_accountkit_ios_country_code_title" = "เลือกประเทศของคุณ";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "หมายเลข";
+"com_accountkit_ios_phone_login_text" = "แตะ '%1$@' เพื่อรับการยืนยันทาง SMS จาก Account Kit โดย Facebook %2$@ ใช้เทคโนโลยีของ Facebook เพื่อช่วยให้คุณลงชื่อเข้าใช้ แต่คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook อาจมีค่าบริการข้อความและอินเทอร์เน็ต <a href=\"%3$@\">เรียนรู้ว่า Facebook ใช้ข้อมูลของคุณอย่างไร</a>";
+"com_accountkit_ios_phone_sending_sms" = "กำลังส่ง SMS ที่มีรหัสของคุณ";
 "com_accountkit_logging_in" = "กำลังเข้าสู่ระบบ\U2026";
 "com_accountkit_other_ways_to_get_code" = "วิธีอื่นๆ ในการรับรหัส:";
 "com_accountkit_phone_error_title" = "โปรดป้อนหมายเลขมือถือที่ถูกต้อง";
 "com_accountkit_phone_loading_title" = "กำลังตรวจสอบยืนยันหมายเลขของคุณ...";
-"com_accountkit_phone_login_phone_number_placeholder" = "หมายเลข";
 "com_accountkit_phone_login_retry_title" = "ยืนยันหมายเลขโทรศัพท์มือถือของคุณ";
-"com_accountkit_phone_login_text" = "แตะ %1$@ เพื่อรับการยืนยันทาง SMS จาก Account Kit สนับสนุนโดย Facebook %2$@ ใช้เทคโนโลยี Facebook เพื่อช่วยคุณในการเข้าสู่ระบบ แต่คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook อาจมีค่าบริการสำหรับข้อความหรือข้อมูล <a href=\"%3$@\">ดูข้อมูลว่า Facebook ใช้ข้อมูลของคุณอย่างไรบ้าง</a>";
+"com_accountkit_phone_login_text" = "แตะ %1$@ เพื่อตรวจสอบยืนยันบัญชีผู้ใช้ของคุณด้วย Account Kit สนับสนุนโดย Facebook คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook เพื่อใช้ Account Kit โดย SMS จะถูกส่งเพื่อตรวจสอบยืนยันหมายเลขจองคุณ อาจมีการเรียกเก็บค่าบริการรับส่งข้อความและข้อมูล <a href=\"%2$@\">เรียนรู้เกี่ยวกับวิธีที่ Facebook ใช้ข้อมูลของคุณ</a>";
 "com_accountkit_phone_login_title" = "ป้อนหมายเลขโทรศัพท์มือถือของคุณ";
 "com_accountkit_phone_sending_code_on_fb_title" = "กำลังส่งรหัสบน Facebook...";
-"com_accountkit_phone_sending_sms" = "ส่ง SMS ที่มีรหัสของคุณ";
 "com_accountkit_resend_check" = "ดูกล่องข้อความ SMS ของคุณ";
 "com_accountkit_resend_email_text" = "ส่งอีเมลใหม่";
 "com_accountkit_resend_title" = "หากคุณยังไม่ได้รับรหัส:";

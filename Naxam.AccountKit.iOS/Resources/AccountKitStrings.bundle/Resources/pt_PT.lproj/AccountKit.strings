@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Conta verificada!";
-"com_accountkit_button_back" = "Retroceder";
 "com_accountkit_button_begin" = "Começar";
 "com_accountkit_button_cancel" = "Cancelar";
 "com_accountkit_button_confirm" = "Confirmar";
@@ -49,7 +48,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Toca em %1$@ para aceitar os <a href=\"%2$@\">&gt;Termos</a>, <a href=\"%3$@\">Política de Dados</a>, <a href=\"%4$@\">Utilização de Cookies</a> do Facebook. <a href=\"%5$@\">Sabe mais</a> sobre a forma como a tua conta é verificada.";
 "com_accountkit_confirmation_code_text" = "Não recebi um código";
 "com_accountkit_confirmation_code_title" = "Insere o teu código";
-"com_accountkit_country_code_title" = "Seleciona o teu país";
 "com_accountkit_email_invalid" = "Este e-mail é inválido. Tenta novamente.";
 "com_accountkit_email_loading_title" = "A verificar o teu endereço de e-mail...";
 "com_accountkit_email_login_retry_title" = "Confirmar o teu e-mail";
@@ -60,16 +58,19 @@
 "com_accountkit_enter_code_sent_to" = "Insere o código que foi enviado para %1$@";
 "com_accountkit_error_title" = "Ocorreu um problema de sistema. Tenta novamente.";
 "com_accountkit_facebook_code_entry_title" = "Insere o teu código do Facebook";
+"com_accountkit_ios_button_back" = "Retroceder";
+"com_accountkit_ios_country_code_title" = "Seleciona o teu país";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Número";
+"com_accountkit_ios_phone_login_text" = "Toca em %1$@ para obteres uma confirmação por SMS do Account Kit patrocinado pelo Facebook. %2$@ usa a tecnologia do Facebook para ajudar a iniciar sessão, mas não precisas de uma conta do Facebook. Podem aplicar-se tarifas de mensagens e de dados. <a href=\"%3$@\">Sabe como o Facebook usa as tuas informações</a>.";
+"com_accountkit_ios_phone_sending_sms" = "A enviar uma mensagem por SMS com o teu código";
 "com_accountkit_logging_in" = "A iniciar sessão\U2026";
 "com_accountkit_other_ways_to_get_code" = "Outras formas de receber um código:";
 "com_accountkit_phone_error_title" = "Insere um número de telemóvel válido.";
 "com_accountkit_phone_loading_title" = "A verificar o teu número...";
-"com_accountkit_phone_login_phone_number_placeholder" = "Número";
 "com_accountkit_phone_login_retry_title" = "Confirma o teu número de telemóvel";
-"com_accountkit_phone_login_text" = "Toca em %1$@ para receberes uma mensagem SMS de confirmação do Account Kit com a tecnologia do Facebook. A app %2$@ utiliza a tecnologia do Facebook para te ajudar a iniciar sessão, mas não precisas de uma conta do Facebook. Podem aplicar-se tarifas de dados e de mensagens. <a href=\"%3$@\">Sabe mais sobre a forma como o Facebook utiliza as tuas informações</a>.";
+"com_accountkit_phone_login_text" = "Toca em %1$@ para verificares a tua conta com o Account Kit patrocinado pelo Facebook. Não precisas de uma conta do Facebook para usares o Account Kit. Será enviado um SMS para verificar o teu número. As tarifas para mensagens e dados poderão ser aplicadas. <a href=\"%2$@\">Sabe mais sobre a forma como o Facebook usa as tuas informações</a>.";
 "com_accountkit_phone_login_title" = "Insere o teu número de telemóvel";
 "com_accountkit_phone_sending_code_on_fb_title" = "A enviar código no Facebook...";
-"com_accountkit_phone_sending_sms" = "A enviar uma mensagem SMS com o teu código";
 "com_accountkit_resend_check" = "Verifica a tua caixa de entrada de SMS";
 "com_accountkit_resend_email_text" = "Enviar Novo E-mail";
 "com_accountkit_resend_title" = "Se não recebeste um código:";

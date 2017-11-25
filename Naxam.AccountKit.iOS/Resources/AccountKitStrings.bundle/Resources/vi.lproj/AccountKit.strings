@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "Đã xác minh tài khoản!";
-"com_accountkit_button_back" = "Quay lại";
 "com_accountkit_button_begin" = "Bắt đầu";
 "com_accountkit_button_cancel" = "Hủy";
 "com_accountkit_button_confirm" = "Xác nhận";
@@ -49,7 +48,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "Nhấn vào %1$@ để chấp nhận <a href=\"%2$@\">Điều khoản</a>, <a href=\"%3$@\">Chính sách dữ liệu</a> và <a href=\"%4$@\">sử dụng cookie</a> của Facebook. <a href=\"%5$@\">Tìm hiểu thêm</a> về cách xác minh tài khoản của bạn.";
 "com_accountkit_confirmation_code_text" = "Tôi không nhận được mã";
 "com_accountkit_confirmation_code_title" = "Nhập mã của bạn";
-"com_accountkit_country_code_title" = "Chọn quốc gia của bạn";
 "com_accountkit_email_invalid" = "Email này không chính xác. Vui lòng thử lại.";
 "com_accountkit_email_loading_title" = "Đang xác minh địa chỉ email của bạn...";
 "com_accountkit_email_login_retry_title" = "Xác nhận email của bạn";
@@ -60,16 +58,19 @@
 "com_accountkit_enter_code_sent_to" = "Nhập mã được gửi tới %1$@";
 "com_accountkit_error_title" = "Đã xảy ra lỗi hệ thống. Vui lòng thử lại.";
 "com_accountkit_facebook_code_entry_title" = "Nhập mã từ Facebook";
+"com_accountkit_ios_button_back" = "Quay lại";
+"com_accountkit_ios_country_code_title" = "Chọn quốc gia của bạn";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "Số điện thoại";
+"com_accountkit_ios_phone_login_text" = "Nhấn vào %1$@ để nhận xác nhận qua SMS từ Account Kit do Facebook cung cấp. %2$@ sử dụng công nghệ của Facebook để giúp bạn đăng nhập, tuy nhiên, bạn không cần có tài khoản Facebook. Cước dữ liệu và tin nhắn có thể được áp dụng. <a href=\"%3$@\">Tìm hiểu cách Facebook sử dụng thông tin của bạn</a>.";
+"com_accountkit_ios_phone_sending_sms" = "Đang gửi mã của bạn qua SMS";
 "com_accountkit_logging_in" = "Đang đăng nhập\U2026";
 "com_accountkit_other_ways_to_get_code" = "Cách khác để nhận mã:";
 "com_accountkit_phone_error_title" = "Vui lòng nhập số di động hợp lệ.";
 "com_accountkit_phone_loading_title" = "Đang xác minh số của bạn...";
-"com_accountkit_phone_login_phone_number_placeholder" = "Số";
 "com_accountkit_phone_login_retry_title" = "Xác nhận số di động của bạn";
-"com_accountkit_phone_login_text" = "Nhấn vào %1$@ để nhận xác nhận qua SMS từ Account Kit do Facebook cung cấp. %2$@ sử dụng công nghệ Facebook để giúp bạn đăng nhập, nhưng bạn không cần có tài khoản Facebook. Bạn có thể phải chịu cước tin nhắn và dữ liệu. <a href=\"%3$@\">Tìm hiểu cách Facebook sử dụng thông tin của bạn</a>.";
+"com_accountkit_phone_login_text" = "Nhấn vào %1$@ để xác minh tài khoản của bạn với Account Kit do Facebook cung cấp. Bạn không cần tài khoản Facebook để sử dụng Account Kit. Chúng tôi có thể gửi SMS để xác minh số của bạn. Cước dữ liệu và tin nhắn có thể áp dụng. <a href=\"%2$@\">Tìm hiểu cách Facebook sử dụng thông tin của bạn</a>.";
 "com_accountkit_phone_login_title" = "Nhập số di động";
 "com_accountkit_phone_sending_code_on_fb_title" = "Đang gửi mã trên Facebook...";
-"com_accountkit_phone_sending_sms" = "Gửi SMS chứa mã";
 "com_accountkit_resend_check" = "Hãy kiểm tra hộp thư SMS";
 "com_accountkit_resend_email_text" = "Gửi email mới";
 "com_accountkit_resend_title" = "Nếu bạn chưa nhận được mã:";

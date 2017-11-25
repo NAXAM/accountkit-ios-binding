@@ -20,7 +20,6 @@
 //
 
 "com_accountkit_account_verified" = "تم التحقق من الحساب!";
-"com_accountkit_button_back" = "رجوع";
 "com_accountkit_button_begin" = "بدء";
 "com_accountkit_button_cancel" = "إلغاء";
 "com_accountkit_button_confirm" = "تأكيد";
@@ -50,7 +49,6 @@
 "com_accountkit_confirmation_code_agreement_instant_verification" = "اضغط على %1$@ لقبول <a href=\"%2$@\">شروط</a> و<a href=\"%3$@\">سياسة بيانات</a> و<a href=\"%4$@\">استخدام ملفات تعريف ارتباط</a> فيسبوك. <a href=\"%5$@\">تعرف على المزيد</a> عن كيفية التحقق من حسابك.";
 "com_accountkit_confirmation_code_text" = "لم أتلق رمزًا";
 "com_accountkit_confirmation_code_title" = "أدخل الرمز";
-"com_accountkit_country_code_title" = "حدد بلدك";
 "com_accountkit_email_invalid" = "هذا البريد الإلكتروني غير صحيح. يرجى إعادة المحاولة.";
 "com_accountkit_email_loading_title" = "جارٍ التحقق من عنوان بريدك الإلكتروني...";
 "com_accountkit_email_login_retry_title" = "تأكيد على بريدك الإلكتروني";
@@ -61,16 +59,19 @@
 "com_accountkit_enter_code_sent_to" = "أدخل الرمز الذي تم إرساله إلى %1$@.";
 "com_accountkit_error_title" = "حدثت مشكلة في النظام. يرجى إعادة المحاولة.";
 "com_accountkit_facebook_code_entry_title" = "يرجى إدخال الرمز من فيسبوك";
+"com_accountkit_ios_button_back" = "عودة";
+"com_accountkit_ios_country_code_title" = "تحديد بلدك";
+"com_accountkit_ios_phone_login_phone_number_placeholder" = "الرقم";
+"com_accountkit_ios_phone_login_text" = "اضغط على %1$@ لتلقي تأكيد عبر رسالة SMS من Account Kit برعاية فيسبوك. يستخدم تطبيق %2$@ تقنية فيسبوك لمساعدتك على تسجيل الدخول، لكنك لن تحتاج إلى حساب فيسبوك. ويتم تطبيق أسعار الرسائل وبيانات الاتصال. <a href=\"%3$@\">تعرف على كيفية استخدام فيسبوك لمعلوماتك</a>.";
+"com_accountkit_ios_phone_sending_sms" = "إرسال رسالة SMS بها الرمز الخاص بك";
 "com_accountkit_logging_in" = "جارٍ تسجيل الدخول...";
 "com_accountkit_other_ways_to_get_code" = "طرق أخرى لتلقي الرمز:";
 "com_accountkit_phone_error_title" = "يرجى إدخال رقم هاتف محمول صالح.";
 "com_accountkit_phone_loading_title" = "جارٍ التحقق من رقمك...";
-"com_accountkit_phone_login_phone_number_placeholder" = "الرقم";
 "com_accountkit_phone_login_retry_title" = "يرجى تأكيد رقم هاتفك المحمول";
-"com_accountkit_phone_login_text" = "اضغط على %1$@ للحصول على رسالة SMS تأكيدية من Account Kit برعاية فيسبوك. يستخدم %2$@ تقنية فيسبوك لمساعدتك على تسجيل الدخول، لكن دون الحاجة إلى حساب فيسبوك. تُطبق أسعار الرسائل وبيانات الاتصال. <a href=\"%3$@\">تعرف على المزيد</a>.";
+"com_accountkit_phone_login_text" = "اضغط على %1$@ للتحقق من حسابك باستخدام Account Kit برعاية فيسبوك. ولا تحتاج إلى حساب فيسبوك لاستخدام Account Kit. قد يتم إرسال رسالة SMS للتحقق من رقمك. ويتم تطبيق أسعار الرسائل وبيانات الاتصال. <a href=\"%2$@\">تعرف على كيفية استخدام فيسبوك لمعلوماتك</a>.";
 "com_accountkit_phone_login_title" = "أدخل رقم هاتفك المحمول";
 "com_accountkit_phone_sending_code_on_fb_title" = "جارٍ إرسال الرمز على فيسبوك...";
-"com_accountkit_phone_sending_sms" = "إرسال رسالة SMS تحتوي على الرمز";
 "com_accountkit_resend_check" = "يرجى التحقق من البريد الوارد لرسائل SMS";
 "com_accountkit_resend_email_text" = "إرسال بريد إلكتروني جديد";
 "com_accountkit_resend_title" = "في حالة عدم الحصول على رمز:";

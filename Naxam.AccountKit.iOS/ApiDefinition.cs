@@ -126,10 +126,6 @@ namespace Facebook.Accountkit
 		[Export("initWithResponseType:")]
 		IntPtr Constructor(AKFResponseType responseType);
 
-		//- (nullable AKFAccountPreferences *)accountPreferences;
-		[NullAllowed, Export("accountPreferences")]
-		AKFAccountPreferences AccountPreferences { get; set; }
-
 		//- (void)cancelLogin;
 		[Export("cancelLogin")]
 		void CancelLogin();
@@ -165,53 +161,6 @@ namespace Facebook.Accountkit
 		//- (nullable UIViewController<AKFViewController> *)viewControllerForLoginResume;
 		[Export("ViewControllerForLoginResume")]
 		void ViewControllerForLoginResume();
-	}
-
-	//@interface AKFAccountPreferences : NSObject
-	[BaseType(typeof(NSObject))]
-	partial interface AKFAccountPreferences 
-	{
-		//@property (nonatomic, weak) id<AKFAccountPreferencesDelegate> delegate;
-		[Export("delegate", ArgumentSemantic.Weak)]
-		NSObject WeakDelegate { get; set; }
-
-		//- (void)deletePreferenceForKey:(NSString *)key;
-		[Export("deletePreferenceForKey:")]
-		void DeletePreferenceForKey(string key);
-
-		//- (void)loadPreferenceForKey:(NSString *)key;
-		[Export("loadPreferenceForKey:")]
-		void LoadPreferenceForKey(string key);
-
-		//- (void)loadPreferences;
-		[Export("loadPreferences")]
-		void LoadPreferences();
-
-		//- (void)setPreferenceForKey:(NSString *)key value:(nullable NSString *)value;
-		[Export("setPreferenceForKey:value:")]
-		void SetPreferenceForKey(string key, [NullAllowed] string value);
-	}
-
-	//@protocol AKFAccountPreferencesDelegate <NSObject>
-	[Protocol, Model]
-	[BaseType(typeof(NSObject))]
-	partial interface AKFAccountPreferencesDelegate 
-	{
-		//- (void)accountPreferences:(AKFAccountPreferences *)accountPreferences didDeletePreferenceForKey:(NSString *)key error:(nullable NSError *)error;
-		[Export("accountPreferences:didDeletePreferenceForKey:error:")]
-		void DidDeletePreferenceForKey(AKFAccountPreferences accountPreferences, string key, [NullAllowed] NSError error);
-
-		//- (void)accountPreferences:(AKFAccountPreferences *)accountPreferences didLoadPreferences:(nullable NSDictionary<NSString *, NSString *> *)preferences error:(nullable NSError *)error;
-		[Export("accountPreferences:didLoadPreferences:error:")]
-		void didLoadPreferences(AKFAccountPreferences accountPreferences, NSDictionary preferences, [NullAllowed] NSError error);
-
-		//- (void)accountPreferences:(AKFAccountPreferences *)accountPreferences didLoadPreferenceForKey:(NSString *)key value:(nullable NSString *)value error:(nullable NSError *)error;
-		[Export("accountPreferences:DidLoadPreferenceForKey:value:error:")]
-		void DidLoadPreferenceForKey(AKFAccountPreferences accountPreferences, string key, [NullAllowed] string value, [NullAllowed] NSError error);
-
-		//- (void)accountPreferences:(AKFAccountPreferences *)accountPreferences didSetPreferenceForKey:(NSString *)key value:(NSString *)value error:(nullable NSError *)error;
-		[Export("accountPreferences:didSetPreferenceForKey:value:error:")]
-		void DidSetPreferenceForKey(AKFAccountPreferences accountPreferences, string key, [NullAllowed] string value, [NullAllowed] NSError error);
 	}
 
 	//@protocol AKFConfiguring

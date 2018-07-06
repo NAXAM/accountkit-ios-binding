@@ -23,6 +23,11 @@ Install-Package Naxam.AccountKit.iOS
 
 Plz follow its official guide [here](https://developers.facebook.com/docs/accountkit/ios).
 
+## Backers
+Most of our libraries are built with our own effort at very small funding or just side projects.
+However, maintaining binding libraries always takes a lot of time and effort.
+Sometimes, people ask us for the latest version, we couldn't afford to upgrade for free due to many other higher prioritized works. Become a backer is the best way to help us always arrange resources to maintain (upgrade and fix issue) binding libraries.
+
 ## License
 
 AccountKit binding library for iOS is released under the MIT license.

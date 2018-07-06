@@ -36,7 +36,6 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
-
 	<key>FacebookAppID</key>
 	<string>2202506213306972</string>
 	<key>AccountKitClientToken</key>

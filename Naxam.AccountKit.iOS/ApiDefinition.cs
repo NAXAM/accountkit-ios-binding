@@ -26,8 +26,10 @@ namespace Facebook.Accountkit
 		nuint AKFHeaderTextTypeCount { get; }
 	}
 
+    partial interface IAKFAccount {}
+
 	// typedef void (^AKFRequestAccountHandler)(id<AKFAccount> _Nullable, NSError * _Nullable);
-	delegate void AKFRequestAccountHandler ([NullAllowed] AKFAccount arg0, [NullAllowed] NSError arg1);
+	delegate void AKFRequestAccountHandler ([NullAllowed] IAKFAccount arg0, [NullAllowed] NSError arg1);
 
 	// typedef void (^AKFLogoutHandler)(BOOL success, NSError *_Nullable error);
 	delegate void AKFLogoutHandler (bool success, [NullAllowed] NSError error);
@@ -120,7 +122,7 @@ namespace Facebook.Accountkit
 
 		//@property (nullable, nonatomic, copy, readonly) id<AKFAccessToken> currentAccessToken;
 		[NullAllowed, Export("currentAccessToken", ArgumentSemantic.Copy)]
-		NSObject CurrentAccessToken { get; }
+        IAKFAccessToken CurrentAccessToken { get; }
 
 		//- (instancetype)initWithResponseType:(AKFResponseType)responseType NS_DESIGNATED_INITIALIZER;
 		[Export("initWithResponseType:")]
@@ -398,6 +400,8 @@ namespace Facebook.Accountkit
 		bool IsEqualToTheme(AKFTheme theme);
 	}
 
+    partial interface IAKFUIManager {}
+
 	//@protocol AKFUIManaging <NSObject>
 	[Protocol, Model]
 	[BaseType(typeof(NSObject))]
@@ -405,11 +409,7 @@ namespace Facebook.Accountkit
 	{
 		//@property (nonatomic, strong) id<AKFUIManager> uiManager;
 		[Abstract, Export("uiManager", ArgumentSemantic.Strong)]
-		NSObject UIManager { get; set; }
-
-		//- (void)setAdvancedUIManager:(id<AKFAdvancedUIManager>)uiManager;
-		[Abstract, Export("setAdvancedUIManager:")]
-		void SetAdvancedUiManager(NSObject uiManager);
+        IAKFUIManager UIManager { get; set; }
 
 		//- (void)setTheme:(AKFTheme *)theme;
 		[Abstract, Export("setTheme:")]
@@ -466,6 +466,8 @@ namespace Facebook.Accountkit
 		void Cancel();
 	}
 
+    partial interface IAKFActionController {}
+
 	//@protocol AKFUIManager <NSObject>
 	[Protocol, Model]
 	[BaseType(typeof(NSObject))]
@@ -493,7 +495,7 @@ namespace Facebook.Accountkit
 
 		//- (void)setActionController:(nonnull id<AKFActionController>)actionController;
 		[Export("setActionController:")]
-		void SetActionController(NSObject actionController);
+        void SetActionController(IAKFActionController actionController);
 
 		//- (void)setError:(nonnull NSError *)error;
 		[Export("setError:")]

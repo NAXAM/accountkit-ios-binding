@@ -158,7 +158,7 @@ namespace Facebook.Accountkit
 
 		//- (UIViewController<AKFViewController> *)viewControllerForPhoneLoginWithPhoneNumber:(nullable AKFPhoneNumber *)phoneNumber state:(nullable NSString *)state;
 		[Export("viewControllerForPhoneLoginWithPhoneNumber:state:")]
-		UIViewController ViewControllerForPhoneLoginWithPhoneNumber(AKFPhoneNumber phoneNumber, string state);
+		UIViewController ViewControllerForPhoneLoginWithPhoneNumber([NullAllowed]AKFPhoneNumber phoneNumber, [NullAllowed]string state);
 
 		//- (nullable UIViewController<AKFViewController> *)viewControllerForLoginResume;
 		[Export("ViewControllerForLoginResume")]
@@ -453,7 +453,7 @@ namespace Facebook.Accountkit
 	}
 
 	// @protocol AKFActionController <NSObject>
-	[Protocol, Model]
+	[Protocol]
 	[BaseType(typeof(NSObject))]
 	partial interface AKFActionController 
 	{

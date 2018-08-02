@@ -45,7 +45,7 @@
     <NativeReference Include="AccountKit.framework">
       <Kind>Framework</Kind>
       <ForceLoad>True</ForceLoad>
-      <LinkerFlags>-obc</LinkerFlags>
+      <LinkerFlags>-ObjC</LinkerFlags>
     </NativeReference>
   </ItemGroup>
   <ItemGroup>
